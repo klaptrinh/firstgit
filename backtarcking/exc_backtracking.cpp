@@ -1,7 +1,7 @@
 ﻿#include<iostream>
 #include<math.h>
 #define MAX 105
-ádasdasdasdasd
+
 void swap(int& a, int& b) {
 	/*a = a + b;
 	b = a - b;
